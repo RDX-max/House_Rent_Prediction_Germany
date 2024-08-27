@@ -23,6 +23,8 @@ The notebook data_processing.ipynb does all 3:
 
 
 **TRAINED ML model**
+
+
 Both trained ML models can be downloaded from here
 Trained model with structured data: 
 Trained model with unstructured data: https://drive.google.com/file/d/1-Hltz3PwJ5Hz0LCTSE6pWGx9kJLp55HP/view?usp=sharing
