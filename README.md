@@ -23,7 +23,7 @@ The notebook data_processing.ipynb does all 3:
 
 
 **TRAINED ML model**
-Both trained ML models are found in the directory: model
-Trained model with structured data: xgboost_step1.pkl
-Trained model with unstructured data: xgboost_step2.pkl
+Both trained ML models can be downloaded from here
+Trained model with structured data: 
+Trained model with unstructured data: https://drive.google.com/file/d/1-Hltz3PwJ5Hz0LCTSE6pWGx9kJLp55HP/view?usp=sharing
 
