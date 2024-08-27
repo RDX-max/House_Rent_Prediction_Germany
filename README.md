@@ -17,9 +17,12 @@ Unstructured data comprises of 'desciption' and 'facilities' column. These two w
 The notebook project.ipynb does all 3: 
 1. Data cleaning
 2. Training a model with only the structured data
-3. Training a model with both structured and unstructured data
+3. Training a model with both structured and Text data
 
-   There is a discussion section included at the end of the notebook
+** There is a discussion section included at the end of the notebook containing the following**
+1. Feature Processing and Model Selection: Provide a comprehensive discussion on how you processed the features, selected your model(s), and your rationale behind these choices.
+2. Model Performance Analysis: Evaluate and compare the performance of the two models. Discuss any observable differences and potential reasons.
+3. Improvement Strategies: Suggest ways the models could be improved or optimized.
 
 
 
@@ -29,7 +32,7 @@ The notebook project.ipynb does all 3:
 
 Both trained ML models can be downloaded from here
 
-Trained model with structured data can be downloaded from here : https://drive.google.com/file/d/11M_blGluyCYekYljvy9v_z0tBVlQtkHe/view?usp=sharing 
+Trained model with structured data can be downloaded from here : https://drive.google.com/file/d/1-2TmvpzpQBOePE6BuXJXjvwt1R-NFpyO/view?usp=sharing
 
-Trained model with unstructured data can be downloaded from here: https://drive.google.com/file/d/1-Hltz3PwJ5Hz0LCTSE6pWGx9kJLp55HP/view?usp=sharing
+Trained model with structured + Text can be downloaded from here: https://drive.google.com/file/d/1-7omZj1UEXQVNMkmXLUeaa_UqMovNoif/view?usp=sharing
 
