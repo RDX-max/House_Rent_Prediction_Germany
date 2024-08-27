@@ -14,7 +14,7 @@ Unstructured data comprises of 'desciption' and 'facilities' column. These two w
 
 **NOTEBOOK**
 
-The notebook data_processing.ipynb does all 3: 
+The notebook project.ipynb does all 3: 
 1. Data cleaning
 2. Training a model with only the structured data
 3. Training a model with both structured and unstructured data
