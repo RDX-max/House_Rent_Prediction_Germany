@@ -5,11 +5,11 @@
 
 **DATA**
 
-data available from here: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
+1. data available from here: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
 
-The data directory in my git has a smaller version of the dataset- "subset_immo_data.csv" , to show you what the data looks like. 
+2. The data directory in this git has a smaller version of the dataset "subset_immo_data.csv" , showing what the data looks like.
 
-Unstructured data comprises of 'desciption' and 'facilities' column. These two were embedded using tinyBERT which is a smaller version of BERT and therefore computationally "cheaper" . A subset of this data is also given in the data directory to show you what the data looks like. It is named embedded_data.csv 
+3. Text data columns are 'desciption' and 'facilities' . These two were embedded using tinyBERT which is a smaller version of BERT and therefore computationally "cheaper" . A subset of this data is also given in the data directory showing what the columns look like after embedding. It is named embedded_data.csv 
 
 
 **NOTEBOOK**
@@ -27,7 +27,7 @@ The notebook project.ipynb does all 3:
 
 
 
-**TRAINED ML model**
+**Trained ML models**
 
 
 Both trained ML models can be downloaded from here
