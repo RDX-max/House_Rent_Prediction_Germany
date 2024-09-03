@@ -23,16 +23,3 @@ The notebook project.ipynb does all 3:
 1. Feature Processing and Model Selection: Provide a comprehensive discussion on how you processed the features, selected your model(s), and your rationale behind these choices.
 2. Model Performance Analysis: Evaluate and compare the performance of the two models. Discuss any observable differences and potential reasons.
 3. Improvement Strategies: Suggest ways the models could be improved or optimized.
-
-
-
-
-**Trained ML models**
-
-
-Both trained ML models can be downloaded from here
-
-Trained model with structured data can be downloaded from here : https://drive.google.com/file/d/1-2TmvpzpQBOePE6BuXJXjvwt1R-NFpyO/view?usp=sharing
-
-Trained model with structured + Text can be downloaded from here: https://drive.google.com/file/d/1-7omZj1UEXQVNMkmXLUeaa_UqMovNoif/view?usp=sharing
-
